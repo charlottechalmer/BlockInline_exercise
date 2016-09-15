@@ -7,11 +7,11 @@
 	background-color: black;
 }
 
-.bold{
+.bold {
 	font-weight: bold;
 }
 
-.italic{
+.italic {
 	font-style: italic;
 }
 
@@ -19,15 +19,10 @@
 	text-decoration: underline;
 }
 
-.tiled_container {
-	width: 100%;
-	background-color: white;
-}
-
 .tiled_container div {
 	border-top: 5px solid black;
 	border-bottom: 5px solid black;
-	height:10px;
+	height: 10px;
 }
 
 /* These are for the exercise, please don't edit them! */
